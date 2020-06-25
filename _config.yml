@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  纯洁的微笑
-subtitle: 分享技术，品味人生
-name: 纯洁的微笑 
-email: ityouknow@126.com
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+title:  申烜臣的博客之旅
+subtitle: 人生果然是一场单程的旅行！
+name: 申烜臣的博客之旅 
+email: Wesson_Shin@163.com
+description: 本站点是申烜臣的技术分享博客。内容涵盖Java后端技术、MyBatis（P1，P2）、Spring、SpringMVC、Spring Boot、Spring Cloud、微服务架构、分布式架构、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
+keywords: wessonshin,Java,Spring,Spring Boot,Spring Cloud,Redis,Git,微服务,分布式,编程,代码,开源,IT网站,IT技术博客
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: wesonshin/wessonshin.github.io
+github_url: https://github.com/wessonshin
+url: http://www.wessonshin.com
+enforce_ssl: wessonshin.com
 
 ## Gem
 plugins:
@@ -235,17 +235,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: wessonshin
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: wessonshin
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: wessonshin
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
